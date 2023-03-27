@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kapitansvoboda
-- 👀 I’m interested in ... improving my computer skills to become programmer in the pharmaceutical industry
-- 🌱 I’m currently learning ...SQL, SAS, Fullstack developing
-- 💞️ I’m looking to collaborate on ... front end and back end development projects
+- 👀 I’m interested in ... improving my computer skills to continue growing in Data Science or become programmer in the pharmaceutical industry
+- 🌱 I’m currently learning ...Python, R, Fullstack developing
+- 💞️ I’m looking to collaborate on ... front end and back end development, and data projects
 - 📫 How to reach me ... svoboda.artur@gmail.com
 
 <!---
